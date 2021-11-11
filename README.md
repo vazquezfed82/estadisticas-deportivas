@@ -27,3 +27,7 @@ Realizar un programa tipo script en NodeJS que muestre:
 
 * BASKET: `DOBLE` = 2 puntos; `TRIPLE` = 3 puntos;
 * RUGBY: `TRY`= 5 puntos; `CONVERSION` = 2 puntos
+
+
+REPO GITHUB
+https://github.com/vazquezfed82/estadisticas-deportivas
